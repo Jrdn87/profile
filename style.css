@@ -17,6 +17,10 @@ p {
   font-style: normal;
 }
 
+p-light-blue {
+  color: #8CBCFC;
+}
+
 .card {
   border-radius: 5px;
   background-color: white;
@@ -50,7 +54,7 @@ img {
 
 a {
   text-decoration: none;
-  color: #8CBCFC;
+  color: rgb(40, 43, 128);
 }
 
 body {
