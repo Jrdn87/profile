@@ -1,17 +1,17 @@
 h1 {
-  color: #9B9EF0;
+  color: rgb(40, 43, 128);
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
 
 h2 {
-  color: #8CBCFC;
+  color: rgb(40, 43, 128);
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
 
 p {
-  color: #8CBCEC;
+  color: rgb(40, 43, 128);
   font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-style: normal;
